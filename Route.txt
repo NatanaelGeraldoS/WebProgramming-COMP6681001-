@@ -1,0 +1,21 @@
+Route adalah penentuan proses yang akan diambil
+Default = localhost:[port]
+
+Request Action
+Routing
+COntroller
+View  - Model
+
+
+--Redirect
+-- Berpindah ke page lain
+
+-- Group
+-- Group yang grouping
+-- /Class/webprog
+
+--Fallback
+-- Page not found, dkk
+
+--Priority
+-- Set Priority kalau dia sama semua

@@ -1,0 +1,21 @@
+1. Kegunaan dari View dan blade pada laravel adalah
+View ini adalah sebagai folder tempat menyimpan semua tampilan yang dapat dan/atau digunakan pada web application yang sedang dibuat.
+
+Untuk blade ini adalah sebagai fitur yang ada pada framework laravel untuk membantu proses templating sederhana yang dapat digunakan untuk mengembangkan tampilan website. Blade ini sebagai extensi file yang ada para resources->view
+
+Nomor 2
+@yield dan @section ini adalah untuk mendefinisikan suatu section dari pada suatu layout. Jadi saat suatu extion di @extends kita dapat mengunakan @section untuk memberikan informasi/data pada @extendsnya pada bagian @yield sesuai dengan nama sectionnya. (Jika Konten berarti yield juga konten)
+
+Untuk @include ini digunakan untuk bagian html yang digunakan kembali seperti php include. namun dia tidak bersifat parent/child seperti @yield dan @section
+
+
+Contoh penerapannya ada apada
+@yield dan @section
+-> Untuk bagian title pada header,
+-> Untuk title pada nama page/subpage
+-> Konten dari website
+
+@include
+->Navbar
+->Footer
+->Head Content
