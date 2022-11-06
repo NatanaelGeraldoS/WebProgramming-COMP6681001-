@@ -1,0 +1,15 @@
+PHP with MySQL
+
+MySQL untuk Database -> ada UInya
+MariaDB itu untuk command promt
+
+MySql itu support JSON, Sedangkan MariaDB tidak Support
+
+MariaDB dia bisa encryption, sedangkan MySQL lebih ke arah validation
+
+MySQL
+-> Database
+-> Structured query Language
+-> Table (Row and Columns)
+
+
